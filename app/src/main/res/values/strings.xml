@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Restaurant Project</string>
+    <string name="label_search">Search</string>
+    <string name="title_restaurant">Restaurants</string>
+
+
+</resources>
