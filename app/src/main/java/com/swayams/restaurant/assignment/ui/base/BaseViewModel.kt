@@ -2,10 +2,9 @@ package com.swayams.restaurant.assignment.ui.base
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.swayam.restaurant.assignment.utils.common.Resource
+import com.swayams.restaurant.assignment.utils.common.Resource
 import com.swayams.restaurant.assignment.utils.rx.SchedulerProvider
 import io.reactivex.disposables.CompositeDisposable
-import javax.net.ssl.HttpsURLConnection
 
 
 abstract class BaseViewModel(

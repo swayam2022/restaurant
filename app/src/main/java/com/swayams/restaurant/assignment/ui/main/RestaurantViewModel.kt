@@ -8,7 +8,7 @@ import com.google.gson.reflect.TypeToken
 import com.swayams.restaurant.assignment.data.model.Menu
 import com.swayams.restaurant.assignment.data.model.RestaurantsList
 import com.swayams.restaurant.assignment.ui.base.BaseViewModel
-import com.swayam.restaurant.assignment.utils.common.Utils
+import com.swayams.restaurant.assignment.utils.common.Utils
 import com.swayams.restaurant.assignment.utils.rx.SchedulerProvider
 import io.reactivex.disposables.CompositeDisposable
 import java.lang.reflect.Type

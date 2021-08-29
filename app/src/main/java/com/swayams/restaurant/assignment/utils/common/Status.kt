@@ -1,4 +1,4 @@
-package com.swayam.restaurant.assignment.utils.common
+package com.swayams.restaurant.assignment.utils.common
 
 enum class Status {
     SUCCESS,

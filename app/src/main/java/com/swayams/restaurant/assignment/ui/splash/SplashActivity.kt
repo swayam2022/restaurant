@@ -8,7 +8,7 @@ import androidx.lifecycle.Observer
 import com.swayams.restaurant.assignment.di.component.ActivityComponent
 import com.swayams.restaurant.assignment.ui.base.BaseActivity
 import com.swayams.restaurant.assignment.ui.main.RestaurantActivity
-import com.swayam.restaurant.assignment.utils.common.Event
+import com.swayams.restaurant.assignment.utils.common.Event
 import com.swayams.restaurant.assignment.R
 
 class SplashActivity : BaseActivity<SplashViewModel>() {

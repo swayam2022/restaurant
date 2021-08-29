@@ -2,7 +2,7 @@ package com.swayams.restaurant.assignment.ui.splash
 
 import androidx.lifecycle.MutableLiveData
 import com.swayams.restaurant.assignment.ui.base.BaseViewModel
-import com.swayam.restaurant.assignment.utils.common.Event
+import com.swayams.restaurant.assignment.utils.common.Event
 import com.swayams.restaurant.assignment.utils.rx.SchedulerProvider
 import io.reactivex.disposables.CompositeDisposable
 
